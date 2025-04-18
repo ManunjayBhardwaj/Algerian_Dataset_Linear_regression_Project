@@ -6,7 +6,7 @@ import pickle
 
 # Load pre-trained model and scaler
 scaler = pickle.load(open('scaler.pkl', 'rb'))
-model = pickle.load(open('ElasticNetCV.pkl', 'rb'))
+model = pickle.load(open('ElasticnetCV.pkl', 'rb'))
 
 
 # Streamlit Page Setup
