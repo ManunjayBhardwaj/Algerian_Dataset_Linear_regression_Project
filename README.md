@@ -6,7 +6,7 @@ This project predicts the **Fire Weather Index (FWI)** using meteorological and 
 
 ## 🚀 Live Demo
 
-👉 [Click here to use the live app](https://your-deployed-streamlit-url)  
+👉 https://algeriandatasetlinearregressionproject-kfujjbmgv6aha5ynehdrfu.streamlit.app
 > Replace this link with your actual Streamlit Cloud deployment link after deploying the app.
 
 ---
